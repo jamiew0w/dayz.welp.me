@@ -587,7 +587,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
-    <type name="AJW__AWM_Magazine_5rnd">
+    <type name="AJW_AWM_Magazine_5rnd">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
