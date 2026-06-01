@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawndata>
+    <attachments>
+        <item classname="PlasticBottle_Water" quantity="1"/>
+        <item classname="TunaCan_Opened" quantity="1"/>
+        <item classname="SteakKnife" quantity="1"/>
+        <item classname="Bandage" quantity="1"/>
+        <item classname="CanvasBag" quantity="1"/>
+    </attachments>
+</playerspawndata>
