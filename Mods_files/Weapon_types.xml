@@ -6022,7 +6022,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_Optic_OKP7">
-        <nominal>25</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>16</min>
