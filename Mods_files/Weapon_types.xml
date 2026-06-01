@@ -1288,7 +1288,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MK12_Black">
-        <nominal>17</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>13</min>
@@ -1309,7 +1309,7 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_MK12_FDE">
-        <nominal>17</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>13</min>
