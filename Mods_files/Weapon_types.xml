@@ -798,7 +798,7 @@
         <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>14</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
