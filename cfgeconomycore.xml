@@ -46,6 +46,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="WoodFal_types.xml" type="types" />
 		<file name="SwissKnife.xml" type="types" />
 		<file name="furniture_types.xml" type="types" />
-		<file name="Fortifications_types.XML" type="types" />
+		<file name="Fortifications_types.xml" type="types" />
 	</ce>
 </economycore>
