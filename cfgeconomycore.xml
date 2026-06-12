@@ -46,8 +46,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="WoodFal_types.xml" type="types" />
 		<file name="SwissKnife.xml" type="types" />
 		<file name="furniture_types.xml" type="types" />
-		<file name="Fortifications_types.xml" type="types" />
 		<file name="BBP_Crafted_Types.xml" type="types" />
 		<file name="BBP_Loot_Types.xml" type="types" />
+		<file name="Hilux_types.xml" type="types" />
+		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Hilux_events.xml" type="events" />
 	</ce>
 </economycore>
