@@ -160,10 +160,10 @@
         <value name="Tier2" />
     </type>
     <type name="AJW_CZP09_OD">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -269,10 +269,10 @@
         <value name="Tier1" />
     </type>
     <type name="AJW_Deagle_Black">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -282,10 +282,10 @@
         <value name="Tier1" />
     </type>
     <type name="AJW_Deagle_FDE">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -323,7 +323,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_M4A1_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>1</min>
@@ -371,7 +371,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_M4A1">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>2</min>
@@ -387,7 +387,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_M4A1_10">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>1</min>
@@ -403,7 +403,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_M4A1_10_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>1</min>
@@ -549,7 +549,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MCX_Grey">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -566,7 +566,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MCX_FDE">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -600,7 +600,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MCX_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -617,10 +617,10 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_ACR_Black">
-        <nominal>9</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -636,10 +636,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_ACR_Tan">
-        <nominal>13</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>6</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -755,7 +755,7 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_DMK12_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -775,7 +775,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_DMK12_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -809,7 +809,7 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_CZP09_OD">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -823,10 +823,10 @@
         <value name="Tier2" />
     </type>
     <type name="AJW_EVO3_Black">
-        <nominal>12</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>8</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -843,10 +843,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_EVO3_Grey">
-        <nominal>12</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>8</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -863,10 +863,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_EVO3_FDE">
-        <nominal>12</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>8</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -902,10 +902,10 @@
         <value name="Tier2" />
     </type>
     <type name="AJW_AK5C_Green">
-        <nominal>16</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -942,10 +942,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_AK5C_Black">
-        <nominal>16</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1059,7 +1059,7 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_MK14_EBR_SASS_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1074,7 +1074,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MK14_EBR_SASS_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1142,7 +1142,7 @@
         <value name="Tier2" />
     </type>
     <type name="AJW_HK416_14_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1157,7 +1157,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_HK416_14_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1172,7 +1172,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_HK416_10_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1187,7 +1187,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_HK416_10_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1246,7 +1246,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_SCARH_White">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1274,7 +1274,7 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_SCARH_Black">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
         <min>0</min>
@@ -1288,10 +1288,10 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_MK12_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>13</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1309,10 +1309,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_MK12_FDE">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>13</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1441,10 +1441,10 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_CM_TaranTactical_FDE">
-        <nominal>18</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>9</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1462,10 +1462,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_CM_TaranTactical_Black">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>9</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1483,10 +1483,10 @@
         <value name="Tier3" />
     </type>
     <type name="AJW_M1897_Bayonet">
-        <nominal>38</nominal>
+        <nominal>8</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>17</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5982,10 +5982,10 @@
         <value name="Tier4" />
     </type>
     <type name="AJW_M1897_Bayonet">
-        <nominal>14</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>360</restock>
-        <min>7</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
