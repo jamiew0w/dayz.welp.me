@@ -51,5 +51,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="Hilux_types.xml" type="types" />
 		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="Hilux_events.xml" type="events" />
+		<file name="Defender_types.xml" type="types" />
+		<file name="Defender_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Defender_events.xml" type="events" />
 	</ce>
 </economycore>
