@@ -1,144 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <spawnabletypes>
 	<type name="CrSk_Land_Rover_Defender_110">
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_1" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_1" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_2" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_2" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_kapot" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_bagazhnik" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.10" />
-		</attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_1" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_1" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_2" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_2" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_kapot" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_bagazhnik" /></attachments>
 	</type>
 	<type name="CrSk_Land_Rover_Defender_110_Green">
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_1_Green" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_1_Green" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_2_Green" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_2_Green" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_kapot_Green" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_bagazhnik_Green" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.10" />
-		</attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_1_Green" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_1_Green" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_2_Green" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_2_Green" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_kapot_Green" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_bagazhnik_Green" /></attachments>
 	</type>
 	<type name="CrSk_Land_Rover_Defender_110_UN">
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_koleso" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_1_UN" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_1_UN" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_1_2_UN" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_dver_2_2_UN" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_kapot_UN" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Defender110_bagazhnik_UN" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.10" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.10" />
-		</attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.70"><item name="Defender110_koleso" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_1_UN" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_1_UN" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_1_2_UN" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_dver_2_2_UN" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_kapot_UN" /></attachments>
+		<attachments chance="0.40"><item name="Defender110_bagazhnik_UN" /></attachments>
 	</type>
 </spawnabletypes>

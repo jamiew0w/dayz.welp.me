@@ -1,191 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <spawnabletypes>
 	<type name="C_Gaz2705">
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Hood" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Trunk" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo1" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo2" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Codriver" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Driver" chance="0.20" />
-		</attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Hood" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Trunk" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo1" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo2" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Codriver" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Driver" /></attachments>
 	</type>
 	<type name="C_Gaz2705_White">
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Hood_White" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Trunk_White" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo1_White" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo2_White" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Codriver_White" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Driver_White" chance="0.20" />
-		</attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Hood_White" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Trunk_White" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo1_White" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo2_White" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Codriver_White" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Driver_White" /></attachments>
 	</type>
 	<type name="C_Gaz2705_Khaki">
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Hood_Khaki" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Trunk_Khaki" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo1_Khaki" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo2_Khaki" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Codriver_Khaki" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Driver_Khaki" chance="0.20" />
-		</attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Hood_Khaki" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Trunk_Khaki" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo1_Khaki" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo2_Khaki" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Codriver_Khaki" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Driver_Khaki" /></attachments>
 	</type>
 	<type name="C_Gaz2705_Red">
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Front" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Wheel_Double" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Hood_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Trunk_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo1_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Cargo2_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Codriver_Red" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="C_Gazelle_Doors_Driver_Red" chance="0.20" />
-		</attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Front" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.70"><item name="C_Gazelle_Wheel_Double" /></attachments>
+		<attachments chance="0.50"><item name="CarRadiator" /></attachments>
+		<attachments chance="0.50"><item name="CarBattery" /></attachments>
+		<attachments chance="0.50"><item name="SparkPlug" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="HeadlightH7" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Hood_Red" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Trunk_Red" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo1_Red" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Cargo2_Red" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Codriver_Red" /></attachments>
+		<attachments chance="0.40"><item name="C_Gazelle_Doors_Driver_Red" /></attachments>
 	</type>
 </spawnabletypes>
