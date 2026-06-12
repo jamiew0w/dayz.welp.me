@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-	<event name="LandRoverDefender">
+	<event name="VehicleLandRoverDefender">
 		<nominal>4</nominal>
 		<min>1</min>
 		<max>5</max>
