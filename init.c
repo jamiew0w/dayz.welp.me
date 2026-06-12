@@ -5,6 +5,10 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 
+	Object roadObstacle = GetGame().CreateObjectEx("StaticObj_Misc_ConcretePanels", "10452.1 4.49998 8630.65", ECE_PLACE_ON_SURFACE);
+	if ( roadObstacle )
+		roadObstacle.SetOrientation("0 0 0");
+
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
 	int reset_month = 8, reset_day = 10;
