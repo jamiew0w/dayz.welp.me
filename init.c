@@ -36,6 +36,31 @@ void main()
 
 class CustomMission: MissionServer
 {
+	float m_fogCheckAccum;
+
+	override void OnUpdate(float timeslice)
+	{
+		super.OnUpdate(timeslice);
+
+		m_fogCheckAccum += timeslice;
+		if (m_fogCheckAccum < 10.0)
+			return;
+		m_fogCheckAccum = 0.0;
+
+		Weather weather = GetGame().GetWeather();
+		float rain = weather.GetRain().GetActual();
+		float fog = weather.GetFog().GetActual();
+
+		float targetFog;
+		if (rain < 0.1)
+			targetFog = 0.0;
+		else
+			targetFog = Math.Min(rain * 0.15, 0.15);
+
+		if (Math.AbsFloat(fog - targetFog) > 0.01)
+			weather.GetFog().Set(targetFog, 30.0, 0.0);
+	}
+
 	void SetRandomHealth(EntityAI itemEnt)
 	{
 		if ( itemEnt )
