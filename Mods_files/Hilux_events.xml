@@ -15,23 +15,23 @@
 		<active>1</active>
 		<children>
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Black" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Red" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_Red" />
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Blue" />
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Silver" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Yellow" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_OD" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Pizza" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_TTSKO" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Faded" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_Yellow" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_OD" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_Pizza" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_TTSKO" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_Hilux_Faded" />
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Black" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Red" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_Red" />
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Blue" />
 			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Silver" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Yellow" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_OD" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Pizza" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_TTSKO" />
-			<child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Faded" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_Yellow" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_OD" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_Pizza" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_TTSKO" />
+			<child lootmax="0" lootmin="0" max="0" min="0" type="Techs_GG_Hilux_Faded" />
 		</children>
 	</event>
 </events>

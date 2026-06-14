@@ -181,7 +181,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 	</type>
 	<type name="Techs_Hilux_Driver_Door">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -190,11 +190,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Red">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -207,7 +209,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Blue">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -216,11 +218,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Silver">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -229,11 +233,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Yellow">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -246,7 +252,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_OD">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -259,7 +265,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Pizza">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -272,7 +278,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_TTSKO">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -285,7 +291,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Driver_Door_Faded">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -298,7 +304,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -307,11 +313,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Red">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -324,7 +332,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Blue">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -333,11 +341,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Silver">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -346,11 +356,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Yellow">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -363,7 +375,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_OD">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -376,7 +388,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Pizza">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -389,7 +401,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_TTSKO">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -402,7 +414,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_CoDriver_Door_Faded">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -415,7 +427,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -424,11 +436,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Red">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -441,7 +455,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Blue">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -450,11 +464,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Silver">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -463,11 +479,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Yellow">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -480,7 +498,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood_OD">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -493,7 +511,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Pizza">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -506,7 +524,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood_TTSKO">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -519,7 +537,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Hood_Faded">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -532,7 +550,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -541,11 +559,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Red">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -558,7 +578,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Blue">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -567,11 +587,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Silver">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -580,11 +602,13 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Yellow">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -597,7 +621,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_OD">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -610,7 +634,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Pizza">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -623,7 +647,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_TTSKO">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -636,7 +660,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Trunk_Faded">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -649,7 +673,7 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Techs_Hilux_Wheel">
-		<nominal>0</nominal>
+		<nominal>2</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -658,8 +682,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="tools"/>
-		<tag name="floor"/>
+		<usage name="Farm"/>
 		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<tag name="floor"/>
 	</type>
 	<type name="Techs_Hilux_Wheel_Ruined">
 		<lifetime>1800</lifetime>
