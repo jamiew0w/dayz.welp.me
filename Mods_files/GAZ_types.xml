@@ -45,10 +45,10 @@
 		<category name=""/>
 	</type>
 	<type name="C_Gazelle_Doors_Hood_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -57,13 +57,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Trunk_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -72,13 +71,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo2_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -87,13 +85,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo1_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -102,13 +99,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Codriver_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -117,13 +113,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Driver_White">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -132,13 +127,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Hood_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -147,13 +141,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Trunk_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -162,13 +155,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo2_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -177,13 +169,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo1_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -192,13 +183,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Codriver_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -207,13 +197,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Driver_Khaki">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -222,13 +211,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Hood">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -237,13 +225,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Trunk">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -252,13 +239,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo2">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -267,13 +253,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo1">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -282,13 +267,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Codriver">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -297,13 +281,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Driver">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -312,13 +295,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Wheel_Double">
-		<nominal>2</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>15</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>15</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -327,7 +309,6 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Wheel_Double_Destroyed">
 		<nominal>0</nominal>
@@ -341,7 +322,6 @@
 		<category name="vehiclesparts"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Wheel_Front_Destroyed">
 		<nominal>0</nominal>
@@ -355,13 +335,12 @@
 		<category name="vehiclesparts"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Wheel_Front">
-		<nominal>2</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>15</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>15</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -370,13 +349,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Hood_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -385,13 +363,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Trunk_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -400,13 +377,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo2_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -415,13 +391,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Cargo1_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -430,13 +405,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Codriver_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -445,13 +419,12 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 	<type name="C_Gazelle_Doors_Driver_Red">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>9</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>9</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -460,6 +433,5 @@
 		<tag name="floor"/>
 		<usage name="Farm"/>
 		<usage name="Industrial"/>
-		<usage name="Town"/>
 	</type>
 </types>
