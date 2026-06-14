@@ -50,15 +50,15 @@ class CustomMission: MissionServer
 		Weather weather = GetGame().GetWeather();
 		float rain = weather.GetRain().GetActual();
 		float fog = weather.GetFog().GetActual();
+		float overcast = weather.GetOvercast().GetActual();
 
-		float targetFog;
-		if (rain < 0.1)
-			targetFog = 0.0;
-		else
-			targetFog = Math.Min(rain * 0.15, 0.15);
-
-		if (Math.AbsFloat(fog - targetFog) > 0.01)
-			weather.GetFog().Set(targetFog, 30.0, 0.0);
+		if (rain < 0.1 && overcast < 0.5)
+		{
+			if (fog > 0.01)
+				weather.GetFog().Set(0.0, 30.0, 0.0);
+			if (overcast > 0.01)
+				weather.GetOvercast().Set(0.0, 30.0, 0.0);
+		}
 	}
 
 	void SetRandomHealth(EntityAI itemEnt)
