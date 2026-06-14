@@ -57,5 +57,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="GAZ_types.xml" type="types" />
 		<file name="GAZ_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="GAZ_events.xml" type="events" />
+		<file name="MMG_Storage_types.xml" type="types" />
 	</ce>
 </economycore>
